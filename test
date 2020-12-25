@@ -1,0 +1,13 @@
+<!DOCTYPE html/>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>PROFILE</title>
+  </head>
+  <body>
+    <h1>Profile</h1>
+    <img src="https://i.ibb.co/NpDY41g/image.png"alt="亞古獸">
+    <p>我的名字是 <strong>Maggie</strong></p>
+    <P>我是<strong>台灣人</strong></p>
+    <P>第一次和HTML玩耍很開心</p>
+    <a href="https://www.facebook.com/maggie.yen.10">我就連個FB</a>
